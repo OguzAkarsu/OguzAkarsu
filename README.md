@@ -1,16 +1,27 @@
-### Hi there 👋
+💫 About Me: Hello, I am Oğuz Kaan Akarsu!
 
-<!--
-**OguzAkarsu/OguzAkarsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 He writes code passionately as a Front-end Developer and Web Developer. 2 has been published.
 
-Here are some ideas to get you started:
+💡 I share user experience and adopt modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 I made friends with HTML, CSS, JavaScript. I'm about to learn React
+
+🔧 The strength of the code has been determined, I am contributing to open projects and enjoying it.
+
+📈 I am open to constant interruptions and development, because what we are writing is an adventure!
+
+📫 Let's stay in touch and work on projects together!
+
+🚀Let's code the future together! 🌟#OğuzAkarsu
+
+🌐 Socials:
+
+🌐 Socials:
+Behance Facebook Instagram LinkedIn
+
+💻 Tech Stack:
+CSS3 JavaScript Java HTML5 AWS React
+
+📊 GitHub Stats:
+
+
